@@ -6,7 +6,7 @@ This project demonstrates how to generate **PDF files from HTML** in Go using di
 
 Install:
 
-go get -u github.com/chromedp/chromedp
+    go get -u github.com/chromedp/chromedp
 
 2. **wkhtmltopdf** (via Go wrapper)
 
